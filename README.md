@@ -1,1 +1,6 @@
-# CSSGrid
+# _shortcut:_
+
+- ctrl + shift + l
+- ctrl + d
+
+# _Emmet:_
