@@ -36,3 +36,7 @@
 #### _span item:_
 
 <img width="762" alt="image" src="https://user-images.githubusercontent.com/92440897/197373502-3e8a047c-4395-4d82-a2ca-947cdd2a54f0.png">
+
+#### _Layout:_
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/92440897/197374389-407eb4b4-4ab5-4ff2-bbfa-841a4b2f236d.png">
