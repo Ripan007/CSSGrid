@@ -12,11 +12,14 @@ body{
 }
 .item-1{
 background-color: blue;    
-grid-row-start: 3;
-grid-column-start: -2;
+/* grid-row-start: 3;
+grid-column-start: -2; */
+grid-area: 1/1/2/4;
 }
 .item-2{
 background-color: rgb(119, 255, 0);    
+grid-row: 2/3;
+grid-column: 1/ span 2;
 
 }
 .item-3{
@@ -24,12 +27,12 @@ background-color: rgb(180, 180, 197);
 }
 .item-4{
 background-color: rgb(179, 41, 186);    
-grid-column: 2/3;
-grid-row: 3;
+/* grid-column: 2/3;
+grid-row: 3; */
 }
 .item-5{
 background-color: rgb(15, 159, 159);   
-grid-area: 2/2/2/3; 
+/* grid-area: 2/2/2/3;  */
 }
 .item-6{
 background-color: rgb(148, 132, 47);    
@@ -38,14 +41,15 @@ background-color: rgb(148, 132, 47);
 background-color: rgb(90, 172, 81);    
 }
 .item-8{
-background-color: rgb(235, 109, 42);    
+background-color: rgb(235, 109, 42);  
+
 }
 .item-9{
 background-color: rgb(175, 35, 114); 
 /* grid-row-start: 1;
 grid-column-start: 3;    */
-grid-row: 1;
-grid-column: 3;
+/* grid-row: 1;
+grid-column: 3; */
 }
 
 .container{

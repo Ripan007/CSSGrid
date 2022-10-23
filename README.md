@@ -14,18 +14,13 @@
 
 ## _Shortcut:_
 
-      grid-row-start
-      grid-row-end
-      grid-column-start
-      grid-column-end
-        ===>  GRID-AREA
+      grid-row-start + grid-column-start + grid-row-end + grid-column-end.
+       ===>  GRID-AREA
       -----------------------
-      grid-row-end
-      grid-row-start
+      grid-row-end + grid-row-start
       ===> GRID-ROW
       --------------------------
-      grid-column-end
-      grid-column-start
+      grid-column-end + grid-column-start
       ===> GRID-COLUMN
 
 ---
@@ -37,3 +32,7 @@
 #### _Css position:_
 
 <img width="808" alt="image" src="https://user-images.githubusercontent.com/92440897/197372806-68a49155-6cfe-432e-a9fe-d157d6e15fa3.png">
+
+#### _span item:_
+
+<img width="762" alt="image" src="https://user-images.githubusercontent.com/92440897/197373502-3e8a047c-4395-4d82-a2ca-947cdd2a54f0.png">
